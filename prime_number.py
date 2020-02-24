@@ -9,5 +9,7 @@ for number in range(1,1000):
     else:
         print(str(number))
         counter =counter +1
-        
+
+print("the number of prime numbers between 1 and 1000 is :" + str(counter))
+
 
